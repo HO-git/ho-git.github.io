@@ -49,7 +49,7 @@ This one remains.
 
 ## GitHub Pages (live preview)
 
-**Live pages:** [[https://ho-git.github.io/relay-not-dead/](https://ho-git.github.io/relay-not-dead/)]
+**Live pages:** [[https://ho-git.github.io/](https://ho-git.github.io/)][[https://ho-git.github.io/relay-not-dead/](https://ho-git.github.io/relay-not-dead/)]
 [[https://ho-git.github.io/manifesto/](https://ho-git.github.io/manifesto.html)]
 [[https://ho-git.github.io/self-report/](https://ho-git.github.io/self-report.html)]
 
